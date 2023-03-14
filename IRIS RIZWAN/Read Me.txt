@@ -1,0 +1,2 @@
+Open this folder in your vs code and set environent.
+In the terminal type "python deploy.py"
